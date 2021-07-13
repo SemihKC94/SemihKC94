@@ -8,7 +8,7 @@
 Hi, all!
 My name is Semih Kubilay and i am from Turkey. I'am a mechanical engineering student but I'm not good with school so i decided to build my career on game development.
 
- I started using Unity about 9 years ago when I started working to learn things for myself. I really enjoy using Unity and feel very lucky to be able to use it professionally and still have so much to learn.
+ I started using Unity about 7 years ago when I started working to learn things for myself. I really enjoy using Unity and feel very lucky to be able to use it professionally and still have so much to learn.
 
 # Contact
 
