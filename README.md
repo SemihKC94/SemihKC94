@@ -2,7 +2,7 @@
 
 **Name:** Semih Kubilay <br>
 **Pronouns:** He / him <br>
-**About me:** I have experience in Unity for 7 years, here and there with small groups or small companies. I'm interested in Hyper-Casual games genre for six or seven months. I continue to improve myself on this road.
+**About me:** I have experience in Unity for 7 years, here and there with small groups or small companies. I'm interested in Hyper-Casual games genre for nine or ten months. I continue to improve myself on this road.
 
 # About Me 
 Hi, all!
