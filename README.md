@@ -2,13 +2,13 @@
 
 **Name:** Semih Kubilay <br>
 **Pronouns:** He / him <br>
-**About me:** I have experience in Unity for 9 years, here and there with small groups or small companies. I'm interested in Hyper-Casual games genre for nine or ten months. I continue to improve myself on this road.
+**About me:** I have experience in Unity for 10 years, here and there with small groups or small companies. I'm interested in Hyper-Casual games genre for 2.5 years. I continue to improve myself on this road.
 
 # About Me 
 Hi, all!
 My name is Semih Kubilay and i am from Turkey. I'am a mechanical engineering student but I'm not good with school so i decided to build my career on game development.
 
- I started using Unity about 9 years ago when I started working to learn things for myself. I really enjoy using Unity and feel very lucky to be able to use it professionally and still have so much to learn.
+ I started using Unity about 10 years ago when I started working to learn things for myself. I really enjoy using Unity and feel very lucky to be able to use it professionally and still have so much to learn.
 
 # Contact
 
